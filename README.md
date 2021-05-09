@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://img.shields.io/badge/<>-Swift-informational?style=flat&logo=<#FA7343>&logoColor=white&color=FA7343)
+![](https://img.shields.io/badge/https://simpleicons.org/icons/swift.svg-Swift-informational?style=flat&logo=<#FA7343>&logoColor=white&color=FA7343)
 
 <!--
 **JuanColilla/JuanColilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
