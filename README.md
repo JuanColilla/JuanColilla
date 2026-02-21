@@ -41,8 +41,10 @@ _Tymit Ltd._ (Remote, London)
 
 ## Most Relevant Projects
 
-- **Tymit** – Multi-brand credit card app  
-- **IATI** – TOP Travel insurance with VoIP and analytics  
+- **Tymit** – Multi-brand credit card app
+- **IATI** – TOP Travel insurance with VoIP and analytics
+- **Agendy** – Swipe-based contact manager for iPhone that helps you declutter your agenda with a Tinder-like interface
+- **Poolendar** – iOS digestive health tracker for logging bowel movements and flatulence, designed for IBS/IBD/Crohn's patients with a lighthearted tone and full on-device privacy
 
 ---
 
