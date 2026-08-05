@@ -1,8 +1,10 @@
 # Juan Colilla
 
-**iOS Engineer @ IATI Travel Insurance**
+**Software Engineer L4 @ FeverUp**
 
 **Owner of Dream Foundries**
+
+https://dreamfoundries.com
 
 ---
 
@@ -50,7 +52,7 @@ _Tymit Ltd._ (Remote, London)
 - **IATI** – TOP Travel insurance with VoIP and analytics
 - **Agendy** – Swipe-based contact manager for iPhone that helps you declutter your agenda with a Tinder-like interface
 - **Poolendar** – iOS digestive health tracker for logging bowel movements and flatulence, designed for IBS/IBD/Crohn's patients with a lighthearted tone and full on-device privacy
-- **MLXHub** – iOS full-suited app for local AI inference and OpenAI-compatible server exposure. Fully distributed inference across Apple Devices and lots of more features.
+- **MLXHub** (http://mlxhub.app) – iOS full-suited app for local AI inference and OpenAI-compatible server exposure. Fully distributed inference across Apple Devices and lots of more features.
 
 ---
 
